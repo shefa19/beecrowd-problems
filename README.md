@@ -73,8 +73,8 @@ g++ 1001.cpp -o 1001
 
 ## 🔗 Connect with me
 
-* **GitHub**: [yourusername](https://github.com/yourusername)
-* **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourusername)
+* **GitHub**: [shefa19](https://github.com/shefa19)
+* **LinkedIn**: [sishefa19](https://www.linkedin.com/in/sishefa19)
 
 ---
 
