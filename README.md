@@ -50,9 +50,9 @@ g++ 1001.cpp -o 1001
 
 ## ✏️ Problem Solving Platforms:
 
-* [Beecrowd](https://www.beecrowd.com.br/)
-* [Codeforces](https://codeforces.com/)
-* [LeetCode](https://leetcode.com/)
+* [Beecrowd](https://judge.beecrowd.com/en/profile/1066526)
+* [Codeforces](https://codeforces.com/profile/Shefa19)
+* [LeetCode](https://leetcode.com/u/shefa19/)
 
 ---
 
